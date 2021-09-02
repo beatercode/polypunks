@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/polypunks/static/css/main.1c1a27c5.chunk.css",
-    "main.js": "/polypunks/static/js/main.745f4568.chunk.js",
-    "main.js.map": "/polypunks/static/js/main.745f4568.chunk.js.map",
+    "main.js": "/polypunks/static/js/main.2e34e4f7.chunk.js",
+    "main.js.map": "/polypunks/static/js/main.2e34e4f7.chunk.js.map",
     "runtime-main.js": "/polypunks/static/js/runtime-main.af979d49.js",
     "runtime-main.js.map": "/polypunks/static/js/runtime-main.af979d49.js.map",
     "static/css/2.5ae832bf.chunk.css": "/polypunks/static/css/2.5ae832bf.chunk.css",
@@ -32,6 +32,6 @@
     "static/css/2.5ae832bf.chunk.css",
     "static/js/2.bd5844cc.chunk.js",
     "static/css/main.1c1a27c5.chunk.css",
-    "static/js/main.745f4568.chunk.js"
+    "static/js/main.2e34e4f7.chunk.js"
   ]
 }
